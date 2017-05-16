@@ -1,4 +1,4 @@
-# scratch-the-dura
+# Scratch The Dura of Brain Hacking
 Begin to learn how to leverage Git, Docker, Jupyter, and various neuroinformatics tools for performing exciting science!
 
 ## The Desiderata
