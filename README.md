@@ -44,13 +44,10 @@ Putting our new skills to the test, we can setup our own Jupyter server. Lastly,
 integrate Widgets into analyses for sharing interactive science.
 
 ## Getting Started
+There are many helpful articles on how to get started with each of these tools, and we don't want to replace them. We aim to just
+shed some light on features that enable you to open the door, get your feet wet, and explore more when you're comfortable.
 
-### Github
-There are many [helpful articles](https://guides.github.com/activities/hello-world/) on how to get started with Github, and we don't
-want to replace them. We aim to just shed some light on features that enable you to open the door, get your feet wet, and explore more
-when you're comfortable.  <br/> [\> Learn Github](./tutorials/github.md)
-
-### Docker
-
-### Jupyter
-
+- [Learn Github](./tutorials/github.md)
+- [Learn Docker](./tutorials/docker.md)
+- [Learn Jupyter](./tutorials/jupyter.md)
+- [Learn Interactive Science](./tutorials/science.md)
