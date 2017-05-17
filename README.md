@@ -1,3 +1,5 @@
+<img src="./figs/101.png" width=300px />
+
 # Scratch The Dura of Brain Hacking
 Begin to learn how to leverage Git, Docker, Jupyter, and various neuroinformatics tools for performing exciting science!
 
@@ -29,7 +31,7 @@ repository (such as NITRC, LONI, LORIS, OpenfMRI, etc.) or on the Cloud are bett
 ## The Structure
 For those of us who are visual learners, we can study the figure below to understand how each of these pieces fits together.
 
-![an open-science schematic](./figs/open-science.png)
+<img src="./figs/open-science.png" width=600px />
 
 Using a containerized environment such as Docker, we can develop code locally and interact through a web interface via Jupyter.
 Inside our environment we can leverage or study any number of tools, such as a few of the neuroimaging tools shown. As we make
