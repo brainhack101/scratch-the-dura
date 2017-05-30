@@ -49,7 +49,7 @@ integrate Widgets into analyses for sharing interactive science.
 There are many helpful articles on how to get started with each of these tools, and we don't want to replace them. We aim to just
 shed some light on features that enable you to open the door, get your feet wet, and explore more when you're comfortable.
 
-- [Learn Github](./tutorials/github.md)
+- [Learn Github](https://brainhack101.github.io/#/github)
 - [Learn Docker](./tutorials/docker.md)
 - [Learn Jupyter](./tutorials/jupyter.md)
 - [Learn Interactive Science](./tutorials/science.md)
