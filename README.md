@@ -3,6 +3,8 @@
 # Scratch The Dura of Brain Hacking
 Begin to learn how to leverage Git, Docker, Jupyter, and various neuroinformatics tools for performing exciting science!
 
+This repository accompanies the lecture slides, [Brainhack 101](https://brainhack101.github.io) given at OHBM 2017.
+
 ## The Desiderata
 A valuable feature of science, in particular computationally-driven science, is reproducibility. When performing or reproducing
 analyses there are several key features that can make this reproducibility particularly effective. Some of these are:
@@ -45,11 +47,3 @@ uncovering (some of) the secrets of Github. We will then learn how to leverage D
 Putting our new skills to the test, we can setup our own Jupyter server. Lastly, we'll showcase some tools and demonstrate how to
 integrate Widgets into analyses for sharing interactive science.
 
-## Getting Started
-There are many helpful articles on how to get started with each of these tools, and we don't want to replace them. We aim to just
-shed some light on features that enable you to open the door, get your feet wet, and explore more when you're comfortable.
-
-- [Learn Github](https://brainhack101.github.io/#/github)
-- [Learn Docker](./tutorials/docker.md)
-- [Learn Jupyter](./tutorials/jupyter.md)
-- [Learn Interactive Science](./tutorials/science.md)
